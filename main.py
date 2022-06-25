@@ -1,5 +1,4 @@
-# ITP 2022 project by grp 17
-# Ansh Anand , Prakhar Moses , Aman Kumar , Vinay kumar , Harsh Mawar
+
 
 # Using Ursina Engine
 # BLOCK LOCK : Miniature Minecraft
